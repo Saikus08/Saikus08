@@ -58,15 +58,6 @@ puts AgustinVignolo.new().greet
 ![GitHub](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&logoColor=white&color=6aa6f8)
 ![Jira](https://img.shields.io/badge/Tool-Jira-informational?style=flat&logo=jira&logoColor=white&color=6aa6f8)
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Saikus08-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 🗂️ Highlight Projects
 WIP
 </a>
-
-## 👨‍💻 This week, I spent my time on:
-(tracked since Sept. 2024)
-
-[![saikus08's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Saikus08&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats)
