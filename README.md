@@ -42,6 +42,10 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=Saikus08&theme=calm&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saikus08&theme=calm&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/agustinvignolo)
 
