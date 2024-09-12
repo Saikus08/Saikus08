@@ -14,11 +14,14 @@ class AgustinVignolo < SoftwareEngineer
   end
 
   def greet
-    'Hi there, nice to see you here :)'
+    puts 'Hi there, nice to see you here :)'
   end
+
+  private
+  attr_reader :name, :age, :languages, ;role, :career, :university
 end
 
-puts AgustinVignolo.new().greet
+> AgustinVignolo.new.greet
 ```
 
 ## 📝 Blogs
