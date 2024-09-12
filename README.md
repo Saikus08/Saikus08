@@ -18,7 +18,7 @@ class AgustinVignolo < SoftwareEngineer
   end
 
   private
-  attr_reader :name, :age, :languages, ;role, :career, :university
+  attr_reader :name, :age, :languages, :role, :career, :university
 end
 
 > AgustinVignolo.new.greet
