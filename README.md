@@ -6,7 +6,7 @@
 class AgustinVignolo < SoftwareEngineer
   def initialize
     @name       = 'Agustín Vignolo'
-    @age        = '22'
+    @age        = '23'
     @languages  = ['Spanish', 'English']
     @role       = 'Software Engineer'
     @career     = 'Bachelors degree in systems'
